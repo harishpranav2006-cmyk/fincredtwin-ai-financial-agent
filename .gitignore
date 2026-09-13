@@ -1,0 +1,10 @@
+log.txt
+__pycache__/
+*.pyc
+.env
+.env.local
+.vscode/
+.idea/
+scratch/
+.pytest_cache/
+code.zip

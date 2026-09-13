@@ -1,0 +1,23 @@
+# FinCredTwin — AI Financial Decision Agent (Buy or Wait?)
+#
+# FinCredTwin is implemented strictly using Python 3.10+ standard libraries
+# for 100% deterministic, zero-dependency, ultra-fast (~1.2s) execution.
+#
+# Standard Library Modules Used:
+# - csv
+# - dataclasses
+# - datetime
+# - collections
+# - typing
+# - pathlib
+# - re
+# - math
+# - unittest
+# - argparse
+# - sys
+# - os
+# - shutil
+
+# No third-party packages required for production execution.
+# Optional testing / linting utilities:
+# pytest>=7.0.0
