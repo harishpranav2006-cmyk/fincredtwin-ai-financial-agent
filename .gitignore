@@ -8,3 +8,5 @@ __pycache__/
 scratch/
 .pytest_cache/
 code.zip
+
+chat_transcript.*
